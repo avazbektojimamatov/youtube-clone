@@ -13,7 +13,8 @@ import {
 	TheaterComedy,
 } from '@mui/icons-material'
 
-export const logo = 'https://media.graphassets.com/xdIRSn8OSb62Tv2l1og4'
+export const logo = 'logo.png';
+
 
 export const category = [
 	{ name: 'New', icon: <Home /> },
